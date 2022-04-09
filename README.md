@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jyothiswaroop1998
-- 👀 I’m interested in ...DataScience
-- 🌱 I’m currently learning ...DataScience
-- 💞️ I’m looking to collaborate on ...DataScience
+- 👀 I’m interested in ...Data analysis , Data Science
+- 🌱 I’m currently learning ...Data analysis , Data Science
+- 💞️ I’m looking to collaborate on ...Data analysis  , DataScience
 - 📫 How to reach me ...jyothiswaroopbsc@gmail.com
 
 <!---
